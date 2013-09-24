@@ -1,0 +1,14 @@
+
+// <editor-fold defaultstate="collapsed" desc=" UML Marker "> 
+// #[regen=yes,id=DCE.DDA082E6-6A45-2B9A-6E03-7B352F4949EF]
+// </editor-fold> 
+public class Prospecto {
+
+    // <editor-fold defaultstate="collapsed" desc=" UML Marker "> 
+    // #[regen=yes,id=DCE.3E2D9A67-C385-8B80-A6BF-11503B8E0980]
+    // </editor-fold> 
+    public Prospecto () {
+    }
+
+}
+
